@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "166523023005",
+    "firebase_url": "https://appforilmuone.firebaseio.com",
+    "project_id": "appforilmuone",
+    "storage_bucket": "appforilmuone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166523023005:android:a13530cd34512192",
+        "android_client_info": {
+          "package_name": "com.example.eventlink.appforilmuone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166523023005-goe71fl4q209h56osi18cd07283sftu0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eventlink.appforilmuone",
+            "certificate_hash": "7e7d78be7c4da3be636a515658ac2831c0dafca2"
+          }
+        },
+        {
+          "client_id": "166523023005-8trkql71hs12c2gqctvfeo7d5e5ttjsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPPatl8qxdjQz4TgB-zdLIVithhqAs5jc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166523023005-8trkql71hs12c2gqctvfeo7d5e5ttjsk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

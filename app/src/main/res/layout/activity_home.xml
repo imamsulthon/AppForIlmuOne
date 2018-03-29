@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="10dp"
+    android:padding="10dp"
+    tools:context="com.example.eventlink.appforilmuone.HomeActivity">
+
+    <Button
+        android:id="@+id/toFibonaci"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:text="To Fibonacci Case"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/toDice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:text="To Dice Case"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/toFireBaseAnalytics"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:text="To Firbase Analytics Case"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/toGoogleAnalytics"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:text="To Google Analytics Case"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/btn_logout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center_horizontal"
+        android:text="Logout"
+        android:textAllCaps="false"/>
+
+
+</LinearLayout>
